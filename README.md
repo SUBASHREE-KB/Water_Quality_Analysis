@@ -1,4 +1,4 @@
-### Naan Mudhalvan - Data Analytics
+### Data Analytics
 #### Water Quality Analysis
 Project Title: Water Quality Analysis
 
